@@ -34,8 +34,8 @@ pip install -r requirements.txt
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/RAKSAurum/Sentiment-Analysis-Using-BERT.git
-cd Sentiment-Analysis-Using-BERT
+git clone https://github.com/RAKSAurum/Sentiment-Analysis-Using-BERT-on-IMDb-Dataset.git
+cd Sentiment-Analysis-Using-BERT-on-IMDb-Dataset
 ```
 
 2. Install dependencies:
